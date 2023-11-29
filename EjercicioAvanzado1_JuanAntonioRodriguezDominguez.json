@@ -1,0 +1,78 @@
+{
+    
+    "escuela":{
+
+
+        "estudiantes":[
+            {   
+            "nombre": "Pepe",
+            "primer_Apellido": "Gutiérrez",
+            "segundo_Apellido": "Sánchez",
+            "edad": 19,
+            "asignaturas_Cursadas": ["Matemáticas: 8.6", "Lengua: 7.5", "Biología: 9.2", "Anatomía: 7.7"]
+            },
+            {    
+            "nombre": "Laura",
+            "primer_Apellido": "Díaz",
+            "segundo_Apellido": "Fernández",
+            "edad": 21,
+            "asignaturas_Cursadas": ["Matemáticas: 7.9", "Lengua: 7.5", "Dibujo Técnico: 7.8", "TIC: 8.3"]
+            }
+        ],
+
+
+        "profesores":[
+            {
+            "nombre": "Roberto",
+            "primer_Apellido": "Morales",
+            "segundo_Apellido": "Pérez",
+            "edad": 34,
+            "lista_Asignaturas": ["TIC", "Matemáticas", "Dibujo Técnico"]
+            },
+            {
+                "nombre": "Raquel",
+                "primer_Apellido": "Gutiérrez",
+                "segundo_Apellido": "Guzmán",
+                "edad": 28,
+                "lista_Asignaturas": ["Biología", "Anatomía", "Matemáticas"]
+            }
+        ],
+        
+
+        "asignaturas":[
+            {
+            "nombre": "Matemáticas",
+            "cantidad_Créditos": "30"
+            },
+            {
+                "nombre": "Lengua",
+                "cantidad_Créditos": "20"
+            },
+            {
+                "nombre": "Biología",
+                "cantidad_Créditos": "25"
+            },
+            {
+                "nombre": "Anatomía",
+                "cantidad_Créditos": "20"
+            },
+            {
+                "nombre": "Dibujo Técnico",
+                "cantidad_Créditos": "30"
+            },
+            {
+                "nombre": "TIC",
+                "cantidad_Créditos": "25"
+            }
+        ]
+    }
+}
+
+
+
+        
+            
+
+
+
+
